@@ -20,12 +20,12 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppSpectorSDK",
-            url: "https://github.com/techery/ios-sdk-spm/raw/1.4.5/AppSpectorSDK/AppSpectorSDK.xcframework.zip",
+            url: "https://github.com/techery/ios-sdk-spm/blob/52471ca81c7bd98b4c0e533b88042148c605cb64/AppSpectorSDK/AppSpectorSDK.xcframework.zip",
             checksum: "19eeb4c08654599ef9a9c14340d8c9caf3c2fcc25eeb4f25e17152897b030e4c"
         ),
         .binaryTarget(
             name: "AppSpectorSDKE2E",
-            url: "https://github.com/techery/ios-sdk-spm/raw/1.4.5/AppSpectorSDKE2E/AppSpectorSDKE2E.xcframework.zip",
+            url: "https://github.com/techery/ios-sdk-spm/blob/52471ca81c7bd98b4c0e533b88042148c605cb64/AppSpectorSDKE2E/AppSpectorSDKE2E.xcframework.zip",
             checksum: "78064690dcd0a7127ac8e013ec29ca0b4ec61620b31921d181b505059c3520b8"
         ),
         .binaryTarget(
