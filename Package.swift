@@ -25,7 +25,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppSpectorSDKE2E",
-            url: "https://github.com/techery/ios-sdk-spm/raw/1.4.5/AppSpectorSDK/AppSpectorSDKE2E.xcframework.zip",
+            url: "https://github.com/techery/ios-sdk-spm/raw/1.4.5/AppSpectorSDKE2E/AppSpectorSDKE2E.xcframework.zip",
             checksum: "78064690dcd0a7127ac8e013ec29ca0b4ec61620b31921d181b505059c3520b8"
         ),
         .binaryTarget(
